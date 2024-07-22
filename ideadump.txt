@@ -1,0 +1,13 @@
+* Snake Bücher Wurm 
+* Frisst Bücher
+    * Congrats you just finished “Shakespeare’s Macbeth”! 
+    * (Dark academia aesthetic)
+    * Oder Kapitel fressen, multiplayer ist dann, wer das buch zu erst zu ende gelesen hat. Wenn man die Kapitel vom anderen frisst, “oh no, you got a spoiler!” oder “didn’t you read this chapter already?”
+* Wäre eine Brillenschlange zu fies?
+* Bücher regale als Hintergrund
+* Krasse Zitate wenn das Spiel zu Ende ist
+* Man hat gewonnen, wenn die Schlange den Umfang des Spielfeldes erreicht hat (Bücherei leer gelesen, leer gefressen)
+* Evt multiplayer, um die Wette lesen
+* Wäre cool, wenn man das Spiel irgendwie pausieren könnte
+* Mehrere Leben, man wird beim dritten Fehlversuch aus der Bücherei rausgeschmissen, weil man sein Buch nicht rechtzeitig abgegeben hat.
+* Mehrere Level? Mit immer kleiner werdenden Bücherei und die Länge, die zum Gewinnen benötigt wird, vergrößert sich um 10%
